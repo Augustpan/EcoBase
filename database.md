@@ -49,3 +49,9 @@
 - Website: https://github.com/UMNFuN/FUNGuild
 - Latest version: ?
 - The Guilds bioinformatic tool is a two-component system that includes online community annotated databases and a python script that assigns functional information to operational taxonomic units (OTUs) obtained from next generation sequencing of environmental samples.
+
+# Others
+## PREDICTS
+- Website: https://www.nhm.ac.uk/our-science/our-work/biodiversity/predicts.html
+- Latest version: ?
+- Global biodiversity database

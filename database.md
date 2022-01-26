@@ -32,6 +32,9 @@
 - Latest version: 1.1 (Oct 2020)
 - China map
 
+## IUCN redlist spatial data
+- Website: https://www.iucnredlist.org/resources/spatial-data-download
+
 # Bioinformatics
 ## MAARJAM
 - Website: https://www.maarjam.botany.ut.ee/
